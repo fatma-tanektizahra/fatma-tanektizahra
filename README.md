@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Fatma
 
-<!--
-**fatma-tanektizahra/fatma-tanektizahra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Developer | IoT & Web Technologies Enthusiast**
 
-Here are some ideas to get you started:
+🔭 **I’m currently working on:**
+- A **healthcare platform** with features for both patients and doctors
+- An **IoT-based heart rate monitoring system** using **ESP8266, MAX30100 & Oracle**
+- An **online store** built with **Spring MVC**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 **I’m currently learning:**
+- Advanced **Spring Boot & Microservices**
+- Embedded systems & IoT security
+- Cloud computing fundamentals
+
+👯 **I’m looking to collaborate on:**
+- Open-source projects in healthcare, IoT, and web development
+- Innovative software solutions that drive impact
+
+💬 **Ask me about:**
+- IoT development with **ESP8266**
+- Backend development with **Spring MVC & Oracle**
+- Markdown, GitHub, and version control
+
+📫 **How to reach me:**
+- LinkedIn: [Your LinkedIn URL]
+- Email: [Your Email]
+
+⚡ **Fun fact:**
+I’m also an **aspiring photographer** 📸 and love exploring artistic expression!
+
+---
