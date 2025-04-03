@@ -23,11 +23,16 @@
 
 📫 **How to reach me:**
 - Email: tanektifatma90@gmail.com
+<a href="mailto:tanektifatma90@gmail.com">![tanektifatma90@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
 ⚡ **Fun fact:**
 I’m also an **aspiring photographer** 📸 and love exploring artistic expression!
 
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=fatma-tanektizahra.fatma-tanektizahra)
+
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=fatma-tanektizahra&count_private=true&show_icons=true&hide=contribs)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fatma-tanektizahra&layout=compact)
 
 ---
