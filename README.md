@@ -1,4 +1,3 @@
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=fatma-tanektizahra.fatma-tanektizahra)
 # 👋 Hi, I'm Fatma
 
 **Software Developer | IoT & Web Technologies Enthusiast**
@@ -23,10 +22,12 @@
 - Markdown, GitHub, and version control
 
 📫 **How to reach me:**
-- LinkedIn: [Your LinkedIn URL]
-- Email: [Your Email]
+- Email: tanektifatma90@gmail.com
 
 ⚡ **Fun fact:**
 I’m also an **aspiring photographer** 📸 and love exploring artistic expression!
+
+
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=fatma-tanektizahra.fatma-tanektizahra)
 
 ---
